@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving!&color=585858&height=200&section=header&text=Hello!-nl-I'm%20KunYoung%20Park&fontSize=40&fontColor=A4A4A4&fontAlign=85&fontAlignY=30&fontAlign=70&fontAlignY=50)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<h3 align="center">:+1: My Most Used Languages </h3>
 <p align="center">
   <a href="https://github.com/kuuneeee">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuuneeee&layout=compact&show_icons=true&show_owner=true}&hide_title=true&theme=nord" />
   </a>
 </p>
-<h3 align="center">💡 My Git Stats 💡</h3>
+<h3 align="center">💡 My Git Stats </h3>
 <p align="center">
   <a href="https://github.com/kuuneeee">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuuneeee&hide=false&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align="center">Skills</h3>
+<h3 align="center">:muscle: Skills</h3>
 <h3 align="center">Machine Learning Tech stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
