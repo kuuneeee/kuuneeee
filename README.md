@@ -6,12 +6,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuuneeee&layout=compact&show_icons=true&show_owner=true}&hide_title=true&theme=nord" />
   </a>
 </p>
-<h3 align="center">💡 My Git Stats </h3>
-<p align="center">
-  <a href="https://github.com/kuuneeee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuuneeee&hide=false&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
-  </a>
-</p>
 
 
 <h3 align="center">:muscle: Skills</h3>
