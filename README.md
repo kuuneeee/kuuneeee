@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving!&color=585858&height=200&section=header&text=Hello!-nl-I'm%20KunYoung%20Park&fontSize=40&fontColor=A4A4A4&fontAlign=85&fontAlignY=30&fontAlign=70&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving!&color=585858&height=200&section=header&text=Hello!-nl-I'm%20GunYoung%20Park&fontSize=40&fontColor=A4A4A4&fontAlign=85&fontAlignY=30&fontAlign=70&fontAlignY=50)
 
 <h3 align="center">:+1: My Most Used Languages </h3>
 <p align="center">
